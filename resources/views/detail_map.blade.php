@@ -16,6 +16,8 @@
     <link rel="stylesheet" type="text/css" href="css/jquery-gmaps-latlon-picker.css"/>
     <!-- Custom styles for this template -->
     <link type="text/css" href="css/thumbnail-gallery.css" rel="stylesheet">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhtAbhF-7dwTTV188EFYsn-YmlpaXll0A&callback="></script>
+
     <!-- Latest compiled and minified CSS -->
     <style>
         /**/
@@ -194,7 +196,6 @@
 
 <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
-<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript" src="js/jquery-gmaps-latlon-picker.js"></script>
 </body>
 </html>
