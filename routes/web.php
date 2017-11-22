@@ -20,3 +20,10 @@ Route::get('/home', function () {
 Route::get('/detailmap',function (){
     return view('detail_map');
 });
+Route::get('/detailinfo',function (){
+    return view('detail_info');
+});
+Route::get('/eachmenu',function (){
+    return view('each_menu');
+});
+
